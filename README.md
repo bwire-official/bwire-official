@@ -109,24 +109,33 @@ const bwire = {
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bwire-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bwire-official&theme=tokyonight&hide_border=true" />
+  <!-- Using github-readme-stats alternative instance -->
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bwire-official&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=bwire-official&theme=tokyonight&hide_border=true" />
   
 </div>
 
 <div align="center">
   
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwire-official&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bwire-official&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
+
+<div align="center">
+
+  <!-- Profile Summary Cards - Alternative to trophies -->
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bwire-official&theme=tokyonight)
+  
+</div>
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=bwire-official&theme=tokyonight&no-frame=true&row=1&column=7)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bwire-official&theme=tokyonight)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bwire-official&theme=tokyonight&utcOffset=3)
   
 </div>
 
@@ -165,7 +174,11 @@ const bwire = {
   
   ### 🐍 Watch my contributions get eaten
   
-  ![Snake animation](https://raw.githubusercontent.com/bwire-official/bwire-official/output/github-contribution-grid-snake-dark.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bwire-official/bwire-official/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bwire-official/bwire-official/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/bwire-official/bwire-official/output/github-contribution-grid-snake.svg" />
+  </picture>
   
 </div>
 
